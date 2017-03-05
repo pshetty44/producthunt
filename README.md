@@ -29,5 +29,5 @@ The extract is available [here](https://data.world/producthunt/product-hunt-rese
 A topic's success was defined by the total votes to the number of products in that topic.The below graph shows the top 50 popular topics.
 
 <p align="center">
-  <img src="(https://cloud.githubusercontent.com/assets/10040565/23585364/8bfea530-0142-11e7-849b-ebb558244879.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/23585364/8bfea530-0142-11e7-849b-ebb558244879.png" width="800"/>
 </p>

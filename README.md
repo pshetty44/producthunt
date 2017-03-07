@@ -38,7 +38,7 @@ created during the night and morning. In 2016, products were mostly created at n
 Users active on social media(have a twitter account) also tend to be active on ProductHunt.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/23675009/837e25fa-033d-11e7-88c0-bc82146e7497.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/23675009/837e25fa-033d-11e7-88c0-bc82146e7497.png" width="300"/>
 </p>
 
 

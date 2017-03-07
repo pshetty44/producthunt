@@ -44,7 +44,7 @@ Users active on social media(have a twitter account) also tend to be active on P
 Users with an updated profile also are more active on ProductHunt.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/23676867/aa17feba-0343-11e7-8e16-d7cb56eb5ee1.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/23676867/aa17feba-0343-11e7-8e16-d7cb56eb5ee1.png" width="250"/>
 </p>
 
 

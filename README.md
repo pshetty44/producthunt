@@ -26,6 +26,16 @@ The extract is available [here](https://data.world/producthunt/product-hunt-rese
 
 
 ### Explore data:
+1. Product creation trends:
+The trend shows that very few products are created during the evening and afternoon. Products are mostly
+created during the night and morning. In 2016, products were mostly created at night.
+
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/23671870/6dfbb388-0332-11e7-97c6-4b2674fbbdee.png" width="800"/>
+</p>
+
+
+
 A topic's success is defined by the total votes to the number of products in that topic.The below graph shows the top 50 popular topics.
 
 <p align="center">

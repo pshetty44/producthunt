@@ -26,13 +26,21 @@ The extract is available [here](https://data.world/producthunt/product-hunt-rese
 
 
 ### Explore data:
-1. Product creation trends:
+1. **Product creation trends:**
 The trend shows that very few products are created during the evening and afternoon. Products are mostly
 created during the night and morning. In 2016, products were mostly created at night.
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10040565/23671870/6dfbb388-0332-11e7-97c6-4b2674fbbdee.png" width="800"/>
 </p>
+
+2. **User activity**
+Users active on social media(have a twitter account) also tend to be active on ProductHunt.
+
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/23673163/d0955112-0336-11e7-9943-219dc30ce2a5.png" width="400"/>
+</p>
+
 
 
 

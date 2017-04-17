@@ -50,7 +50,7 @@ Users with an updated profile also are more active on ProductHunt.
 
 
 
-
+3.**Popular topics:**
 A topic's success is defined by the total votes to the number of products in that topic.The below graph shows the top 50 popular topics.
 
 <p align="center">

@@ -51,7 +51,7 @@ Users with an updated profile also are more active on ProductHunt.
 
 
 3.**Popular topics:**
-A topic's success is defined by the total votes to the number of products in that topic.The below graph shows the top 50 popular topics.
+A topic is a group of similar products. A topic is considered successful if products in that topic has large number of votes. Below is the list of the most successful topics based on its product votes.
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10040565/23585364/8bfea530-0142-11e7-849b-ebb558244879.png" width="800"/>

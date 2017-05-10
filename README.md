@@ -22,7 +22,7 @@ The extract is available [here](https://data.world/producthunt/product-hunt-rese
 
 ### Project Scope:
 1. Which topics are more successful?
-2. Prediction model to estimate upvotes for a product.
+2. Model to predict if a product will be successful.
 
 
 ### Explore data:
@@ -50,9 +50,13 @@ Users with an updated profile also are more active on ProductHunt.
 
 
 
-3.**Popular topics:**
-A topic is a group of similar products. A topic is considered successful if products in that topic has large number of votes. Below is the list of the most successful topics based on its product votes.
+**Which topics are most successful?**
+A topic is a group of similar products. A topic is considered successful if products in that topic has a high number of votes compared to products in other topics. Below is the list of the most successful topics based on its product votes.
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10040565/23585364/8bfea530-0142-11e7-849b-ebb558244879.png" width="800"/>
 </p>
+
+**Model to predict if a product is successful**
+The goal here is to use the features available when a product is posted and build a model to predict if that product will be successful. A product is defined as successful if the number of votes it receives is above the 75 percentile. The technical details of the model is here. 
+I used Support vector Machine algorithm to classify a product as successful or not. The model has an accuracy of 98.6% and a recall of 94.6%

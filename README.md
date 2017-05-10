@@ -58,5 +58,5 @@ A topic is a group of similar products. A topic is considered successful if prod
 </p>
 
 **Model to predict if a product is successful**
-The goal here is to use the features available when a product is posted and build a model to predict if that product will be successful. A product is defined as successful if the number of votes it receives is above the 75 percentile. The technical details of the model is here. 
+The goal here is to use the features available when a product is posted and build a model to predict if that product will be successful. A product is defined as successful if the number of votes it receives is above the 75 percentile. The technical details of the model is [here](https://github.com/pshetty44/ProductHunt/blob/master/model_creation.ipynb). 
 I used Support vector Machine algorithm to classify a product as successful or not. The model has an accuracy of 98.6% and a recall of 94.6%
